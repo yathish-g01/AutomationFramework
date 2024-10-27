@@ -1,0 +1,226 @@
+24-07-04 06-22-21.282 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:22) - Selecting the browser to run the application
+24-07-04 06-22-21.303 IST INFO  [main] Conifguration.CommonFunctions (CommonFunctions.java:34) - chrome is set as the browser to run the application.
+24-07-04 06-22-23.108 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:24) - Browser is set as chrome
+24-07-04 06-22-23.140 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:22) - Selecting the browser to run the application
+24-07-04 06-22-23.140 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:24) - Browser is set as chrome
+24-07-04 06-22-27.604 IST INFO  [main] Conifguration.CommonFunctions (CommonFunctions.java:54) - Navigated to the URL: https://www.demo.guru99.com/V4/index.php
+24-07-04 06-22-29.620 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:36) - URL is opened
+24-07-04 07-27-53.942 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:22) - Selecting the browser to run the application
+24-07-04 07-27-53.942 IST INFO  [main] Conifguration.CommonFunctions (CommonFunctions.java:34) - chrome is set as the browser to run the application.
+24-07-04 07-27-55.737 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:24) - Browser is set as chrome
+24-07-04 07-28-01.964 IST INFO  [main] Conifguration.CommonFunctions (CommonFunctions.java:54) - Navigated to the URL: http://www.demo.guru99.com/V4/index.php
+24-07-04 07-28-03.978 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:36) - URL is opened
+24-07-04 07-28-18.218 IST INFO  [main] Conifguration.CommonFunctions (CommonFunctions.java:54) - Navigated to the URL: http://www.demo.guru99.com/V4/index.php
+24-07-04 07-28-20.237 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:36) - URL is opened
+24-07-04 07-28-21.829 IST INFO  [main] Conifguration.CommonFunctions (CommonFunctions.java:62) - Alert detected: {}User or Password is not valid
+24-07-04 07-28-30.589 IST INFO  [main] Conifguration.CommonFunctions (CommonFunctions.java:54) - Navigated to the URL: http://www.demo.guru99.com/V4/index.php
+24-07-04 07-28-32.593 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:36) - URL is opened
+24-07-04 07-28-34.218 IST INFO  [main] Conifguration.CommonFunctions (CommonFunctions.java:62) - Alert detected: {}User or Password is not valid
+24-07-04 07-28-41.929 IST INFO  [main] Conifguration.CommonFunctions (CommonFunctions.java:54) - Navigated to the URL: http://www.demo.guru99.com/V4/index.php
+24-07-04 07-28-43.946 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:36) - URL is opened
+24-07-04 07-28-46.285 IST INFO  [main] Conifguration.CommonFunctions (CommonFunctions.java:54) - Navigated to the URL: http://www.demo.guru99.com/V4/manager/addAccount.php
+24-07-04 07-28-46.443 IST INFO  [main] PageObjects.NewAccountPage (NewAccountPage.java:43) - CustomerId Field: Enter 82531
+24-07-04 07-28-46.578 IST INFO  [main] TestCases.NewAccountTest (NewAccountTest.java:22) - Customer ID is set as 82531
+24-07-04 07-28-46.752 IST INFO  [main] TestCases.NewAccountTest (NewAccountTest.java:24) - Account Type is set as Savings
+24-07-04 07-28-46.824 IST INFO  [main] PageObjects.NewAccountPage (NewAccountPage.java:49) - Initial Deposit Field: Enter 1213
+24-07-04 07-28-46.977 IST INFO  [main] TestCases.NewAccountTest (NewAccountTest.java:26) - Initial Deposit is set as 1213
+24-07-04 07-28-47.011 IST INFO  [main] PageObjects.NewAccountPage (NewAccountPage.java:55) - Click submit.
+24-07-04 07-28-49.756 IST INFO  [main] TestCases.NewAccountTest (NewAccountTest.java:28) - Clicked on the submit button
+24-07-04 07-28-49.808 IST INFO  [main] PageObjects.NewAccountPage (NewAccountPage.java:68) - Get an messesage: Account Generated Successfully!!!
+24-07-04 07-28-49.892 IST INFO  [main] TestCases.NewAccountTest (NewAccountTest.java:30) - Account is created successfully
+24-07-04 07-28-54.565 IST INFO  [main] Conifguration.CommonFunctions (CommonFunctions.java:54) - Navigated to the URL: http://www.demo.guru99.com/V4/index.php
+24-07-04 07-28-56.570 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:36) - URL is opened
+24-07-04 07-28-57.340 IST INFO  [main] Conifguration.CommonFunctions (CommonFunctions.java:54) - Navigated to the URL: http://www.demo.guru99.com/V4/manager/addAccount.php
+24-07-04 07-28-57.474 IST INFO  [main] PageObjects.NewAccountPage (NewAccountPage.java:43) - CustomerId Field: Enter 82531
+24-07-04 07-28-57.614 IST INFO  [main] TestCases.NewAccountTest (NewAccountTest.java:22) - Customer ID is set as 82531
+24-07-04 07-28-57.782 IST INFO  [main] Conifguration.CommonFunctions (CommonFunctions.java:81) - Screenshot taken.
+24-07-04 07-28-59.773 IST INFO  [main] Conifguration.CommonFunctions (CommonFunctions.java:54) - Navigated to the URL: http://www.demo.guru99.com/V4/index.php
+24-07-04 07-29-01.775 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:36) - URL is opened
+24-07-04 07-29-01.854 IST INFO  [main] Conifguration.CommonFunctions (CommonFunctions.java:81) - Screenshot taken.
+24-07-04 07-29-04.783 IST INFO  [main] Conifguration.CommonFunctions (CommonFunctions.java:54) - Navigated to the URL: http://www.demo.guru99.com/V4/index.php
+24-07-04 07-29-06.794 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:36) - URL is opened
+24-07-04 07-29-06.845 IST INFO  [main] Conifguration.CommonFunctions (CommonFunctions.java:81) - Screenshot taken.
+24-07-04 07-29-09.375 IST INFO  [main] Conifguration.CommonFunctions (CommonFunctions.java:54) - Navigated to the URL: http://www.demo.guru99.com/V4/index.php
+24-07-04 07-29-11.388 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:36) - URL is opened
+24-07-04 07-29-11.443 IST INFO  [main] Conifguration.CommonFunctions (CommonFunctions.java:81) - Screenshot taken.
+24-07-04 07-29-11.675 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:76) - Close browser.
+24-07-04 07-31-37.259 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:22) - Selecting the browser to run the application
+24-07-04 07-31-37.270 IST INFO  [main] Conifguration.CommonFunctions (CommonFunctions.java:34) - chrome is set as the browser to run the application.
+24-07-04 07-31-39.043 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:24) - Browser is set as chrome
+24-07-04 07-31-44.982 IST INFO  [main] Configuration.CommonFunctions (CommonFunctions.java:54) - Navigated to the URL: http://www.demo.guru99.com/V4/index.php
+24-07-04 07-31-47.000 IST INFO  [main] Configuration.BaseClass (BaseClass.java:36) - URL is opened
+24-07-04 07-31-59.274 IST INFO  [main] Conifguration.CommonFunctions (CommonFunctions.java:54) - Navigated to the URL: http://www.demo.guru99.com/V4/index.php
+24-07-04 07-32-01.288 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:36) - URL is opened
+24-07-04 07-32-02.848 IST INFO  [main] Conifguration.CommonFunctions (CommonFunctions.java:62) - Alert detected: {}User or Password is not valid
+24-07-04 07-32-12.291 IST INFO  [main] Conifguration.CommonFunctions (CommonFunctions.java:54) - Navigated to the URL: http://www.demo.guru99.com/V4/index.php
+24-07-04 07-32-14.301 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:36) - URL is opened
+24-07-04 07-32-15.927 IST INFO  [main] Conifguration.CommonFunctions (CommonFunctions.java:62) - Alert detected: {}User or Password is not valid
+24-07-04 07-32-23.695 IST INFO  [main] Conifguration.CommonFunctions (CommonFunctions.java:54) - Navigated to the URL: http://www.demo.guru99.com/V4/index.php
+24-07-04 07-32-25.705 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:36) - URL is opened
+24-07-04 07-32-28.162 IST INFO  [main] Conifguration.CommonFunctions (CommonFunctions.java:54) - Navigated to the URL: http://www.demo.guru99.com/V4/manager/addAccount.php
+24-07-04 07-32-28.333 IST INFO  [main] PageObjects.NewAccountPage (NewAccountPage.java:43) - CustomerId Field: Enter 82531
+24-07-04 07-32-28.517 IST INFO  [main] TestCases.NewAccountTest (NewAccountTest.java:22) - Customer ID is set as 82531
+24-07-04 07-32-28.737 IST INFO  [main] TestCases.NewAccountTest (NewAccountTest.java:24) - Account Type is set as Savings
+24-07-04 07-32-28.817 IST INFO  [main] PageObjects.NewAccountPage (NewAccountPage.java:49) - Initial Deposit Field: Enter 1213
+24-07-04 07-32-28.968 IST INFO  [main] TestCases.NewAccountTest (NewAccountTest.java:26) - Initial Deposit is set as 1213
+24-07-04 07-32-29.009 IST INFO  [main] PageObjects.NewAccountPage (NewAccountPage.java:55) - Click submit.
+24-07-04 07-32-31.948 IST INFO  [main] TestCases.NewAccountTest (NewAccountTest.java:28) - Clicked on the submit button
+24-07-04 07-32-32.186 IST INFO  [main] PageObjects.NewAccountPage (NewAccountPage.java:68) - Get an messesage: Account Generated Successfully!!!
+24-07-04 07-32-32.258 IST INFO  [main] TestCases.NewAccountTest (NewAccountTest.java:30) - Account is created successfully
+24-07-04 07-32-36.442 IST INFO  [main] Conifguration.CommonFunctions (CommonFunctions.java:54) - Navigated to the URL: http://www.demo.guru99.com/V4/index.php
+24-07-04 07-32-38.459 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:36) - URL is opened
+24-07-04 07-32-39.431 IST INFO  [main] Conifguration.CommonFunctions (CommonFunctions.java:54) - Navigated to the URL: http://www.demo.guru99.com/V4/manager/addAccount.php
+24-07-04 07-32-39.659 IST INFO  [main] PageObjects.NewAccountPage (NewAccountPage.java:43) - CustomerId Field: Enter 82531
+24-07-04 07-32-39.786 IST INFO  [main] TestCases.NewAccountTest (NewAccountTest.java:22) - Customer ID is set as 82531
+24-07-04 07-32-39.985 IST INFO  [main] TestCases.NewAccountTest (NewAccountTest.java:24) - Account Type is set as Current
+24-07-04 07-32-40.068 IST INFO  [main] PageObjects.NewAccountPage (NewAccountPage.java:49) - Initial Deposit Field: Enter 1400
+24-07-04 07-32-40.204 IST INFO  [main] TestCases.NewAccountTest (NewAccountTest.java:26) - Initial Deposit is set as 1400
+24-07-04 07-32-40.243 IST INFO  [main] PageObjects.NewAccountPage (NewAccountPage.java:55) - Click submit.
+24-07-04 07-32-43.468 IST INFO  [main] TestCases.NewAccountTest (NewAccountTest.java:28) - Clicked on the submit button
+24-07-04 07-32-43.514 IST INFO  [main] PageObjects.NewAccountPage (NewAccountPage.java:68) - Get an messesage: Account Generated Successfully!!!
+24-07-04 07-32-43.620 IST INFO  [main] TestCases.NewAccountTest (NewAccountTest.java:30) - Account is created successfully
+24-07-04 07-32-48.258 IST INFO  [main] Conifguration.CommonFunctions (CommonFunctions.java:54) - Navigated to the URL: http://www.demo.guru99.com/V4/index.php
+24-07-04 07-32-50.260 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:36) - URL is opened
+24-07-04 07-32-52.225 IST INFO  [main] Conifguration.CommonFunctions (CommonFunctions.java:54) - Navigated to the URL: http://www.demo.guru99.com/V4/manager/addcustomerpage.php
+24-07-04 07-32-52.297 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:88) - Name Field: Enter john
+24-07-04 07-32-52.461 IST INFO  [main] TestCases.NewCustomerTest (NewCustomerTest.java:23) - Customer Name is set as john
+24-07-04 07-32-52.549 IST INFO  [main] TestCases.NewCustomerTest (NewCustomerTest.java:25) - Customer Gender is set as male
+24-07-04 07-32-52.642 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:112) - Dob Field: Enter 01/01/1990
+24-07-04 07-32-52.756 IST INFO  [main] TestCases.NewCustomerTest (NewCustomerTest.java:27) - Customer DOB is set as 01/01/1990
+24-07-04 07-32-52.815 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:123) - Address Field: Enter Church Street
+24-07-04 07-32-53.025 IST INFO  [main] TestCases.NewCustomerTest (NewCustomerTest.java:29) - Customer Address is set as Church Street
+24-07-04 07-32-53.090 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:136) - City Field: Enter City
+24-07-04 07-32-53.217 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:138) - Press TAB
+24-07-04 07-32-53.312 IST INFO  [main] TestCases.NewCustomerTest (NewCustomerTest.java:31) - Customer City is set as City
+24-07-04 07-32-53.394 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:149) - State Field: Enter State
+24-07-04 07-32-53.533 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:151) - Press TAB
+24-07-04 07-32-53.620 IST INFO  [main] TestCases.NewCustomerTest (NewCustomerTest.java:33) - Customer State is set as State
+24-07-04 07-32-53.687 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:162) - Pin Field: Enter 123456
+24-07-04 07-32-53.799 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:164) - Press TAB
+24-07-04 07-32-53.883 IST INFO  [main] TestCases.NewCustomerTest (NewCustomerTest.java:35) - Customer PinCode is set as 123456
+24-07-04 07-32-53.987 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:175) - Mobile Field: Enter 1234567890
+24-07-04 07-32-54.121 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:177) - Press TAB
+24-07-04 07-32-54.207 IST INFO  [main] TestCases.NewCustomerTest (NewCustomerTest.java:37) - Customer Mobile is set as 1234567890
+24-07-04 07-32-54.284 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:188) - Mail Field: Enter abcd12@me.com
+24-07-04 07-32-54.452 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:190) - Press TAB
+24-07-04 07-32-54.525 IST INFO  [main] TestCases.NewCustomerTest (NewCustomerTest.java:39) - Customer Mail is set as abcd12@me.com
+24-07-04 07-32-54.634 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:201) - Pass Field: Enter password
+24-07-04 07-32-54.778 IST INFO  [main] TestCases.NewCustomerTest (NewCustomerTest.java:41) - Customer Password is set as password
+24-07-04 07-32-54.811 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:212) - Click submit.
+24-07-04 07-32-55.935 IST INFO  [main] TestCases.NewCustomerTest (NewCustomerTest.java:43) - Clicked on the submit button
+24-07-04 07-32-55.975 IST INFO  [main] Conifguration.CommonFunctions (CommonFunctions.java:81) - Screenshot taken.
+24-07-04 07-32-58.819 IST INFO  [main] Conifguration.CommonFunctions (CommonFunctions.java:54) - Navigated to the URL: http://www.demo.guru99.com/V4/index.php
+24-07-04 07-33-00.830 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:36) - URL is opened
+24-07-04 07-33-01.815 IST INFO  [main] Conifguration.CommonFunctions (CommonFunctions.java:54) - Navigated to the URL: http://www.demo.guru99.com/V4/manager/addcustomerpage.php
+24-07-04 07-33-01.949 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:88) - Name Field: Enter john
+24-07-04 07-33-02.132 IST INFO  [main] TestCases.NewCustomerTest (NewCustomerTest.java:23) - Customer Name is set as john
+24-07-04 07-33-02.227 IST INFO  [main] TestCases.NewCustomerTest (NewCustomerTest.java:25) - Customer Gender is set as male
+24-07-04 07-33-02.332 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:112) - Dob Field: Enter 01/01/1990
+24-07-04 07-33-02.484 IST INFO  [main] TestCases.NewCustomerTest (NewCustomerTest.java:27) - Customer DOB is set as 01/01/1990
+24-07-04 07-33-02.542 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:123) - Address Field: Enter Church Street
+24-07-04 07-33-02.759 IST INFO  [main] TestCases.NewCustomerTest (NewCustomerTest.java:29) - Customer Address is set as Church Street
+24-07-04 07-33-02.823 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:136) - City Field: Enter City
+24-07-04 07-33-02.998 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:138) - Press TAB
+24-07-04 07-33-03.093 IST INFO  [main] TestCases.NewCustomerTest (NewCustomerTest.java:31) - Customer City is set as City
+24-07-04 07-33-03.163 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:149) - State Field: Enter State
+24-07-04 07-33-03.315 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:151) - Press TAB
+24-07-04 07-33-03.414 IST INFO  [main] TestCases.NewCustomerTest (NewCustomerTest.java:33) - Customer State is set as State
+24-07-04 07-33-03.477 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:162) - Pin Field: Enter 123456
+24-07-04 07-33-03.596 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:164) - Press TAB
+24-07-04 07-33-03.663 IST INFO  [main] TestCases.NewCustomerTest (NewCustomerTest.java:35) - Customer PinCode is set as 123456
+24-07-04 07-33-03.731 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:175) - Mobile Field: Enter 1234567890
+24-07-04 07-33-03.863 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:177) - Press TAB
+24-07-04 07-33-03.956 IST INFO  [main] TestCases.NewCustomerTest (NewCustomerTest.java:37) - Customer Mobile is set as 1234567890
+24-07-04 07-33-04.037 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:188) - Mail Field: Enter abcd123@me.com
+24-07-04 07-33-04.240 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:190) - Press TAB
+24-07-04 07-33-04.302 IST INFO  [main] TestCases.NewCustomerTest (NewCustomerTest.java:39) - Customer Mail is set as abcd123@me.com
+24-07-04 07-33-04.374 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:201) - Pass Field: Enter password
+24-07-04 07-33-04.501 IST INFO  [main] TestCases.NewCustomerTest (NewCustomerTest.java:41) - Customer Password is set as password
+24-07-04 07-33-04.531 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:212) - Click submit.
+24-07-04 07-33-07.075 IST INFO  [main] TestCases.NewCustomerTest (NewCustomerTest.java:43) - Clicked on the submit button
+24-07-04 07-33-09.254 IST INFO  [main] Conifguration.CommonFunctions (CommonFunctions.java:54) - Navigated to the URL: http://www.demo.guru99.com/V4/index.php
+24-07-04 07-33-11.257 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:36) - URL is opened
+24-07-04 07-33-12.227 IST INFO  [main] Conifguration.CommonFunctions (CommonFunctions.java:54) - Navigated to the URL: http://www.demo.guru99.com/V4/manager/addcustomerpage.php
+24-07-04 07-33-12.279 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:88) - Name Field: Enter john
+24-07-04 07-33-12.457 IST INFO  [main] TestCases.NewCustomerTest (NewCustomerTest.java:23) - Customer Name is set as john
+24-07-04 07-33-12.543 IST INFO  [main] TestCases.NewCustomerTest (NewCustomerTest.java:25) - Customer Gender is set as male
+24-07-04 07-33-12.634 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:112) - Dob Field: Enter 01/01/1990
+24-07-04 07-33-12.766 IST INFO  [main] TestCases.NewCustomerTest (NewCustomerTest.java:27) - Customer DOB is set as 01/01/1990
+24-07-04 07-33-12.820 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:123) - Address Field: Enter Church Street
+24-07-04 07-33-13.023 IST INFO  [main] TestCases.NewCustomerTest (NewCustomerTest.java:29) - Customer Address is set as Church Street
+24-07-04 07-33-13.085 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:136) - City Field: Enter City
+24-07-04 07-33-13.238 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:138) - Press TAB
+24-07-04 07-33-13.332 IST INFO  [main] TestCases.NewCustomerTest (NewCustomerTest.java:31) - Customer City is set as City
+24-07-04 07-33-13.398 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:149) - State Field: Enter State
+24-07-04 07-33-13.523 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:151) - Press TAB
+24-07-04 07-33-13.600 IST INFO  [main] TestCases.NewCustomerTest (NewCustomerTest.java:33) - Customer State is set as State
+24-07-04 07-33-13.656 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:162) - Pin Field: Enter 123456
+24-07-04 07-33-13.769 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:164) - Press TAB
+24-07-04 07-33-13.838 IST INFO  [main] TestCases.NewCustomerTest (NewCustomerTest.java:35) - Customer PinCode is set as 123456
+24-07-04 07-33-13.907 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:175) - Mobile Field: Enter 1234567890
+24-07-04 07-33-14.067 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:177) - Press TAB
+24-07-04 07-33-14.138 IST INFO  [main] TestCases.NewCustomerTest (NewCustomerTest.java:37) - Customer Mobile is set as 1234567890
+24-07-04 07-33-14.237 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:188) - Mail Field: Enter abcd121@me.com
+24-07-04 07-33-14.441 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:190) - Press TAB
+24-07-04 07-33-14.522 IST INFO  [main] TestCases.NewCustomerTest (NewCustomerTest.java:39) - Customer Mail is set as abcd121@me.com
+24-07-04 07-33-14.585 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:201) - Pass Field: Enter password
+24-07-04 07-33-14.714 IST INFO  [main] TestCases.NewCustomerTest (NewCustomerTest.java:41) - Customer Password is set as password
+24-07-04 07-33-14.732 IST INFO  [main] PageObjects.NewCustomerPage (NewCustomerPage.java:212) - Click submit.
+24-07-04 07-33-17.482 IST INFO  [main] TestCases.NewCustomerTest (NewCustomerTest.java:43) - Clicked on the submit button
+24-07-04 07-33-17.524 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:76) - Close browser.
+24-07-04 07-41-23.161 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:24) - Selecting the browser to run the application
+24-07-04 07-41-23.177 IST INFO  [main] Conifguration.CommonFunctions (CommonFunctions.java:34) - chrome is set as the browser to run the application.
+24-07-04 07-41-24.932 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:26) - Browser is set as chrome
+24-07-04 07-41-24.958 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:24) - Selecting the browser to run the application
+24-07-04 07-41-24.958 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:26) - Browser is set as chrome
+24-07-04 07-41-32.387 IST INFO  [main] Conifguration.CommonFunctions (CommonFunctions.java:54) - Navigated to the URL: https://www.demo.guru99.com/V4/index.php
+24-07-04 07-41-34.391 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:38) - URL is opened
+24-07-04 07-41-39.521 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:78) - Close browser.
+24-07-04 07-41-39.976 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:24) - Selecting the browser to run the application
+24-07-04 07-41-39.978 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:26) - Browser is set as chrome
+24-07-04 07-41-39.978 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:24) - Selecting the browser to run the application
+24-07-04 07-41-39.982 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:26) - Browser is set as chrome
+24-07-04 07-41-40.025 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:78) - Close browser.
+24-07-04 07-41-40.063 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:24) - Selecting the browser to run the application
+24-07-04 07-41-40.063 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:26) - Browser is set as chrome
+24-07-04 07-41-40.063 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:24) - Selecting the browser to run the application
+24-07-04 07-41-40.063 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:26) - Browser is set as chrome
+24-07-04 07-41-40.077 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:78) - Close browser.
+24-07-04 07-41-40.109 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:24) - Selecting the browser to run the application
+24-07-04 07-41-40.109 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:26) - Browser is set as chrome
+24-07-04 07-41-40.109 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:24) - Selecting the browser to run the application
+24-07-04 07-41-40.109 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:26) - Browser is set as chrome
+24-07-04 07-41-40.138 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:78) - Close browser.
+24-07-04 07-41-40.169 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:24) - Selecting the browser to run the application
+24-07-04 07-41-40.169 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:26) - Browser is set as chrome
+24-07-04 07-41-40.173 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:24) - Selecting the browser to run the application
+24-07-04 07-41-40.173 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:26) - Browser is set as chrome
+24-07-04 07-41-40.184 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:78) - Close browser.
+24-07-04 12-55-49.991 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:24) - Selecting the browser to run the application
+24-07-04 12-55-49.991 IST INFO  [main] Conifguration.CommonFunctions (CommonFunctions.java:34) - chrome is set as the browser to run the application.
+24-07-04 12-55-51.214 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:26) - Browser is set as chrome
+24-07-04 12-55-51.235 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:24) - Selecting the browser to run the application
+24-07-04 12-55-51.236 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:26) - Browser is set as chrome
+24-07-04 12-56-01.160 IST INFO  [main] Conifguration.CommonFunctions (CommonFunctions.java:54) - Navigated to the URL: https://www.demo.guru99.com/V4/index.php
+24-07-04 12-56-03.172 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:38) - URL is opened
+24-07-04 12-56-07.500 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:78) - Close browser.
+24-07-04 12-56-07.728 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:24) - Selecting the browser to run the application
+24-07-04 12-56-07.728 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:26) - Browser is set as chrome
+24-07-04 12-56-07.728 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:24) - Selecting the browser to run the application
+24-07-04 12-56-07.728 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:26) - Browser is set as chrome
+24-07-04 12-56-07.749 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:78) - Close browser.
+24-07-04 12-56-07.758 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:24) - Selecting the browser to run the application
+24-07-04 12-56-07.758 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:26) - Browser is set as chrome
+24-07-04 12-56-07.761 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:24) - Selecting the browser to run the application
+24-07-04 12-56-07.761 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:26) - Browser is set as chrome
+24-07-04 12-56-07.762 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:78) - Close browser.
+24-07-04 12-56-07.773 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:24) - Selecting the browser to run the application
+24-07-04 12-56-07.773 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:26) - Browser is set as chrome
+24-07-04 12-56-07.773 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:24) - Selecting the browser to run the application
+24-07-04 12-56-07.773 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:26) - Browser is set as chrome
+24-07-04 12-56-07.787 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:78) - Close browser.
+24-07-04 12-56-07.793 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:24) - Selecting the browser to run the application
+24-07-04 12-56-07.793 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:26) - Browser is set as chrome
+24-07-04 12-56-07.793 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:24) - Selecting the browser to run the application
+24-07-04 12-56-07.793 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:26) - Browser is set as chrome
+24-07-04 12-56-07.800 IST INFO  [main] Conifguration.BaseClass (BaseClass.java:78) - Close browser.
